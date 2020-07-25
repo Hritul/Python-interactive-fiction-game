@@ -7,4 +7,4 @@ Will you succeed to free your friends from the castle dungeons, or peril trying?
 
 In this project, I created an interactive fiction text adventure game in Python by using the basics of programming and of Python language.
 
-### You can directly play the game by downloading mygame.exe file and running it on your system or you can paste the code and run it and play the game.
+### You can directly play the game by downloading mygame.exe file and running it on your system or you can paste the code in python ide and run it and play the game.
