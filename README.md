@@ -1,4 +1,4 @@
-# My-python-interactive-Role-Playing-game
+# Python fiction game
 
 In this adventure, you are the hero.
 Your choices, skills, and a bit of luck, will influence the outcome of the game.
